@@ -6,6 +6,7 @@ k.scene("game", async () => {
   gameManager.canSpawn = true;
   gameManager.score.text_ui.hidden = false;
   gameManager.score.value = 0;
+  gameManager.wave = 0;
 
   const player = createPlayer();
 

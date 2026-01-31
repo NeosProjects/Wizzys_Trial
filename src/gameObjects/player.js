@@ -19,7 +19,7 @@ export function createPlayer(){
 
     k.pos(k.center()), 
     k.layer("player"),
-    k.sprite("player"),
+    k.sprite("player-o"),
     k.scale(6),
     k.anchor("bot"),
     k.health(3, 3),

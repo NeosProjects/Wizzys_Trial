@@ -10,6 +10,7 @@ k.loadSprite("light_grass", "sprites/light_grass_tile.png");
 k.loadSprite("dark_grass", "sprites/dark_grass_tile.png");
 k.loadSprite("brambles", "sprites/brambles.png");
 k.loadSprite("bush", "sprites/bush.png");
+k.loadSprite("logo", "sprites/wizzy_logo_final.png");
 k.loadSprite("spike", "sprites/spike.png", {
   sliceX: 2,
   sliceY: 1,
